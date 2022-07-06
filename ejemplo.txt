@@ -2,4 +2,4 @@ Hola este es el tutorial para iniciar git.
 
 Primera prueba de commit.
 
-Hoy realice el primer commit en git.
+Hoy realice el primer commit en git y como funciona.
